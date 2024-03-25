@@ -1,5 +1,6 @@
 {
     "name": "DOGGY DOG BATTLE GAME",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
